@@ -25,4 +25,10 @@
 - How long do patients stay in the ICU? Is there a difference in the ICU length of stay among gender or ethnicity?
 
 
+## Generative AI - the following questions were asked to ChatGPT
 
+### 1.
+- What’s the best way to join multiple MIMIC-III tables in DuckDB?
+
+### 2.
+- How do I upload files into my EC2 instance?
